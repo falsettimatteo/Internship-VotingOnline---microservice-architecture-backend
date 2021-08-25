@@ -1,0 +1,13 @@
+package votingOnline.votingCatalog;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NomineeCatalogApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NomineeCatalogApplication.class, args);
+	}
+
+}

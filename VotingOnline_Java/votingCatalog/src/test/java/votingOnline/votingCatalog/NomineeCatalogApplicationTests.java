@@ -1,0 +1,13 @@
+package votingOnline.votingCatalog;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NomineeCatalogApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
