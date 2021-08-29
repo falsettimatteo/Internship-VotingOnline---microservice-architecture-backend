@@ -13,7 +13,7 @@ export class AppController {
   }
 
   @MessagePattern('addNominee')
-  async signupUser(
+  async signupNominee(
     @Param('nominee')nominee: string): Promise<string> {
    let response = await this.nomineeService.createNominee({
       "nominee": nominee}).then(() => {
