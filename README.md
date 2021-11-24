@@ -1,4 +1,4 @@
-# uni-stage
+# uni-staga
 
 Questo progetto è parte dello stage universitario svolto presso SyncLan S.r.l.
 
